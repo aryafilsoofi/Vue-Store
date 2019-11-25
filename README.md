@@ -1,7 +1,9 @@
 # Vue-Store
 By <a href="https://aryafilsoofi.com">Arya Filsoofi</a>
-Project created by Christian Nwamba <nwambachristian@gmail.com>
-Demo:
+<br>
+Creator: Christian Nwamba <nwambachristian@gmail.com>
+<br>
+Demo: <i>Coming Soon</i>
 
 ## Build Setup
 

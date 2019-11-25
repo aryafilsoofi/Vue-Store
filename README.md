@@ -1,6 +1,7 @@
-# vue-store
-
-> Mini E-Commerce App w/ Vue.js
+# Vue-Store
+By <a href="https://aryafilsoofi.com">Arya Filsoofi</a>
+Project created by Christian Nwamba <nwambachristian@gmail.com>
+Demo:
 
 ## Build Setup
 

@@ -18,9 +18,9 @@ var app = express();
 const mongoose = require('moongoose');
 
 // Database connection
-mongoose.connect(process.env.DB_URI);
+// mongoose.connect(process.env.DB_URI);
 // Not sure which db connection will work yet
-// mongoose.connect(`mongodb://${process.env.DB_USER}:${process.env.DB_PASSWORD}@${process.env.DB_URL}`);
+mongoose.connect(`mongodb://${process.env.DB_USER}:${process.env.DB_PASSWORD}@${process.env.DB_URL}`);
 
 // CORS configuration
 app.all('/*', function (req, res, next) {

@@ -1,5 +1,6 @@
 # Vue-Store
 By <a href="https://aryafilsoofi.com">Arya Filsoofi</a>
+<br>
 Project created by Christian Nwamba <nwambachristian@gmail.com>
 Demo:
 
